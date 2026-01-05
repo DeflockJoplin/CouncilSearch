@@ -7,8 +7,6 @@
 - **ALPR search script** (`ALPR_search.ps1`) – runs OCR on the downloaded PDFs (optional) and creates a plain‑text file **`ALPR search.txt`** that lists every occurrence of the keywords *“Flock”*, *“ALPR”*, *“license‑plate reader”*, etc.  
 - **`ALPR search.txt`** – the final searchable result file (included in the repo).  
 
-> **NOTE:** The original PDF files have been omitted from the repository because they exceed the size limits of this hosting platform. If you need the full PDF collection, please contact the project maintainers (see the “Contact” section below).
-
 ##  Contact  
 
 If you would like a copy of **all** the scraped PDFs, please reach out to us via email.  We will arrange a secure transfer method (encrypted archive, cloud share, or physical media).
