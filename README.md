@@ -28,7 +28,7 @@ python -m venv venv
 
 ### Install required Python packages
 ```
-pip install requests beautifulsoup4 tqdm
+pip install requests beautifulsoup4 tqdm ocrmypdf
 ```
 ### Run the scraper
 ```
