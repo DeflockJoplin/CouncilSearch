@@ -5,7 +5,7 @@
 
 # ===================== USER SETTINGS ==============================
 $RootFolder = "C:\CouncilSearch\joplin_council_pdfs"   # <-- change if needed
-$RunOCR     = $true   # set $true only the first time you need to OCR the PDFs
+$RunOCR     = $false   # set $true only the first time you need to OCR the PDFs
 $OcrFolderName = "ocr_output"   # folder that will hold the OCR PDFs
 # ------------------------------------------------------------------
 
