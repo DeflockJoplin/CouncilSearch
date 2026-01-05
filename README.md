@@ -36,7 +36,11 @@ pip install requests beautifulsoup4 tqdm
 ```
 python DownloadPdfs.py
 ```
-Get poppler from https://github.com/oschwartz10612/poppler-windows/releases 
+Get poppler from 
+```
+https://github.com/oschwartz10612/poppler-windows/releases
+```
+ 
 Extract the Library\bin folder of your poppler download to C:\Poppler so that pdftotext is in C:\poppler\pdftotext.exe
 
 The PDFs will be saved under joplin_council_pdfs\<year>\.
